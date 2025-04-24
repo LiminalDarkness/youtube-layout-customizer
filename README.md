@@ -42,3 +42,4 @@ The layout will automatically adjust based on your screen width. No other setup 
 
 - The script applies automatically when you visit or navigate within YouTube.
 - If anything breaks, disable and re-enable the script in the Tampermonkey dashboard.
+- The script was created because I really disliked the updated layout of YouTube since April 20, 2025. I wanted to restore the layout to how it was before the update.
